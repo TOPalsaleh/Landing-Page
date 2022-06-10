@@ -53,6 +53,8 @@ button.subs{
     margin-top: 10px;
     margin-left: 250px;
     color: white;
+    background-color: #1F2937;
+    border: #1F2937;
 }
 div.Imagebox{
     width: 450px;
